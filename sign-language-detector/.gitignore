@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+__pycache__/
+
+# Datasets and Pickle Models
+data/
+data.pickle
+model.p
+
+# IDE Settings
+.vscode/
+.idea/
